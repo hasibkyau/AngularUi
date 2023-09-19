@@ -99,6 +99,7 @@ position: relative;
     .item {
       height: 10vh;
       background-color: gainsboro;
+      border: 2px solid red;
       border: 2px solid black;
     }
   }
